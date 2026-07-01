@@ -1,8 +1,11 @@
 ## Overview
-
+A responsive results summary component built with HTML and CSS. This project focused on recreating the provided design while practicing responsive layouts, gradients, and component styling.
 
 ### Key learnings
-
+- Creating layouts with Flexbox.
+- Working with CSS gradients.
+- Styling reusable card components.
+- Building responsive interfaces with media queries.
 
 ## Project
 - Live Site URL: 
