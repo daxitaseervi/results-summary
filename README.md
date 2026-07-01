@@ -8,7 +8,7 @@ A responsive results summary component built with HTML and CSS. This project foc
 - Building responsive interfaces with media queries.
 
 ## Project
-- Live Site URL: 
+- Live Site URL: https://daxitaseervi.github.io/results-summary/
 ![Project Screenshot](images/project-screenshot.png)
 
 ## Links
